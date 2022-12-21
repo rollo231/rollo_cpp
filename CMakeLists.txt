@@ -18,3 +18,5 @@ add_executable(q5 10week_coding_test/week1/time_complexity/Q5/q5.cpp)
 
 add_executable(1.5 10week_coding_test/week0/1.5/1.5.cpp)
 add_executable(1.6 10week_coding_test/week0/1.6/1.6.cpp)
+add_executable(2557 boj/2557/2557.cpp)
+add_executable(10171 boj/10171/10171.cpp)
