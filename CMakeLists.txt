@@ -19,3 +19,7 @@ add_executable(11655 boj/11655/11655.cpp)
 add_executable(9996 boj/9996/9996.cpp)
 add_executable(2559 boj/2559/2559.cpp)
 add_executable(1620 boj/1620/1620.cpp)
+add_executable(1_variables_in_memory modern_cpp/memory_structure/1_variables_in_memory/1_variables_in_memory.cpp)
+add_executable(2_variable_types1 modern_cpp/memory_structure/2_variable_types1/2_variable_types1.cpp)
+
+add_executable(3_variable_types2 modern_cpp/memory_structure/3_variable_types2/3_variable_types2.cpp)
